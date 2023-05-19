@@ -93,7 +93,7 @@
         /* width: 90.33%; */
         background-color: white;
         margin-bottom: 1rem;
-        
+        border-radius: 3%;
     }
         .image {
             display: flex;
@@ -161,7 +161,7 @@
             .aw:hover {
                 text-decoration: underline;
                 color: purple;
-                font-size: 3.5rem;
+                font-size: 2.5rem;
             }
     
         /* bottom section*/
